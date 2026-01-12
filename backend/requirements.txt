@@ -1,0 +1,6 @@
+flask
+flask-cors
+tensorflow
+gensim
+numpy
+pickle-mixin
